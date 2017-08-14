@@ -1,7 +1,7 @@
 Project Ambiance
 1)	Get music
 	a.	Literally how to receive
-		i.	Audio receiver in computer? 
+		i.	Audio receiver in computer? (I'm thinking a Raspberyy Pi with some way of listening)
 		ii.	Another receiver connected to computer?
 			1.	Wired connection or bluetooth
 2)	Send clip 
@@ -17,9 +17,9 @@ Project Ambiance
 4)	Pull info on song
 	a.	Where do we pull from?
 		i.	A program searching google with song title?
-	b.	What info do we want on song? Just album?
+	b.	What info do we want on song? Just album? (just album artwork to grad colors)
 5)	Display info
-	a.	On computer?
+	a.	On computer? (no real need to, maybe for debugging purposes)
 6)	Create light show
-	a.	One color per album? Per song?
-	b.	7 colors changing at a steady pace
+	a.	One color per album? Per song? (2 colors per album, to start)
+	b.	7 colors changing at a steady pace (probably keep the same colors without changing)
