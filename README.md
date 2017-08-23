@@ -15,3 +15,7 @@ A project that uses a real-time listening device to capture song information and
 [Raspberry Pi Spectrum Analysis LED](https://learn.adafruit.com/raspberry-pi-spectrum-analyzer-display-on-rgb-led-strip/page-1)
 [Pi Light Show](http://lightshowpi.org/)
 [Buy LED strips](https://www.adafruit.com)
+[Pi Clapper](https://www.reddit.com/r/raspberry_pi/comments/3odzt2/building_a_clapper_onoff_switch_with_the/)
+[Pi Clapper 2](http://blog.bitcollectors.com/adam/2017/03/diy-raspberry-pi-zero-clapper/)
+[Pi Clapper Video](https://www.youtube.com/watch?v=MFdgDUboMqE)
+[Pi Voice Commands](https://computers.tutsplus.com/articles/how-to-control-a-lamp-with-voice-commands-and-a-raspberry-pi--mac-60825)
