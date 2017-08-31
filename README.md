@@ -1,6 +1,9 @@
 # Project-Ambiance
-A project that uses a real-time listening device to capture song information and back light a display with colors from the album
+A project that uses a real-time listening device to capture song information and back light a display with colors from the album. View progress and result images [here](http://imgur.com/a/PLQOM).
 
+## Required Items
+* [IKEA Kallax 4x2 Shelf Unit](http://www.ikea.com/us/en/catalog/products/40346924/)
+* (58 x 3) + (30 x 4) + (16 x 1) = 310" of LED Lights (still looking for source)
 
 ## Potential Libraries
 * Audio Fingerprinting: [Dejavu](https://github.com/worldveil/dejavu)
