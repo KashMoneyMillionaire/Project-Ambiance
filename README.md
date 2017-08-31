@@ -4,6 +4,7 @@ A project that uses a real-time listening device to capture song information and
 ## Required Items
 * [IKEA Kallax 4x2 Shelf Unit](http://www.ikea.com/us/en/catalog/products/40346924/)
 * (58 x 3) + (30 x 4) + (16 x 1) = 310" of LED Lights (still looking for source)
+  * [Adafruit LED strip guide](https://docs.google.com/spreadsheets/d/1aZr6dLNaDgbs9wWNs0IHAKmsHPESsYnBtiNbKMx9OOg/edit?usp=sharing)
 
 ## Potential Libraries
 * Audio Fingerprinting: [Dejavu](https://github.com/worldveil/dejavu)
